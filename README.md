@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Shintaro Yamamoto
 
 You can use the [editor on GitHub](https://github.com/yamashin42/yamashin42/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
