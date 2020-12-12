@@ -24,7 +24,7 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Engineering, Wase
 1. Yukitaka Tsuchiya, Takahiro Itazuri, Ryota Natsume, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Generating Video from Single Image Sound.", Sight and Sound Workshop (in CVPR 2019), Long Beach, U.S., 2019.06.17. 
 1. Ryota Natsume, Kazuki Inoue, Yoshihiro Fukuhara, **Shintaro Yamamoto**, Shigeo Morishima, and Hirokatsu Kataoka "Understanding Fake-Faces. ", Brain-Driven Computer Vision Workshop (in ECCV 2018), Munich, Germany, 2018.09.08.
 1. Kanami Yamagishi, Takuya Kato, **Shintaro Yamamoto**, Ayano Kaneda, and Shigeo Morishima "How makeup experience changes how we see cosmetics?", ACM Symposium on Applied Perception (Poster), Vancouver, Canada, 2018. 08. 10-2018.08.11. 
-1. Kanami Yamagishi, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Cosmetic Features Extraction by a Single Image Makeup Decomposition." Women in Computer Vision Workshop in conjuction with CVPR 2018, Salt Lake City, U.S.
+1. Kanami Yamagishi, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Cosmetic Features Extraction by a Single Image Makeup Decomposition." Women in Computer Vision Workshop (in CVPR 2018), Salt Lake City, U.S.
 
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
