@@ -1,37 +1,15 @@
 ## Shintaro Yamamoto
 
-You can use the [editor on GitHub](https://github.com/yamashin42/yamashin42/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Japanese Doctoral student at Graduate School of Advanced Engineering, Waseda University since April 2019. I'm also a Research Assistant at Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST) since May 2020. My research topic is scientific publication mining using Natural Language Processing and Computer Vision techniques. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Biography
+- Apr. 2013 - Mar. 2017: Department of Applied Physics, School of Advanced Engineering, Waseda University (Bachelor of Engineering)
+- Apr. 2017 - Mar. 2019: Department of Pure and Applied Physics, School of Advanced Engineering, Wasda University (Master of Engineering)
+- Jul. 2017 - Sep. 2017: Cross-disciplinary Scholars in Science and Technology (CSST) Program / California Research Training Program in Computational and Applied Mathematics, University of California, Los Angeles
+- Apr. 2019 - Present: Department of Pure and Applied Physics, School of Advanced Engineering, Waseda Unievrsity (Ph.D. course)
+(Graduate Program for Embodied Informatics)
+- Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yamashin42/yamashin42/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Work Experience
+- Jan. 2019 - Mar. 2019: Internship, Omron SinicX Corporation
+- May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
