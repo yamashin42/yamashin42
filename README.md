@@ -13,6 +13,9 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 - May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
 
 ### Papers
+#### Preprint
+1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, [arXiv:2012.11213](https://arxiv.org/abs/2012.11213)
+
 #### International Conference (Full/Short Paper)
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima “Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers”, 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, 2021.07.24-2021.07.29 (accepted)
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, 2019.12.06-2019.12.08. 
