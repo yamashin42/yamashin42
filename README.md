@@ -13,7 +13,6 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 - May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
 
 ### Papers
-1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, [arXiv:2012.11213](https://arxiv.org/abs/2012.11213) (preprint)
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima “Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers”, 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, Dec. 2019 
 1. Yukitaka Tsuchiya, Takahiro Itazuri, Ryota Natsume, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Generating Video from Single Image Sound.", Sight and Sound Workshop (in CVPR 2019), Long Beach, U.S., Jun. 2019
@@ -23,6 +22,9 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 1. Kanami Yamagishi, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Cosmetic Features Extraction by a Single Image Makeup Decomposition." Women in Computer Vision Workshop (in CVPR 2018), Salt Lake City, U.S. Jun. 2018
 1. Yonatan Dukler, Yurun Ge, Yizhou Qian, **Shintaro Yamamoto**, Baichuan Yuan, Long Zhao, Andrea L. Bertozzi, Blake Hunter, Rafael Llerena, and Jesse T. Yen "Automatic decomposition and mitral valve segmentation of cardiac ultrasound time series data." SPIE conference on medical imaging, 2018, Houston, U.S., Feb. 2018
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2018
+
+### Preprint
+1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, [arXiv:2012.11213](https://arxiv.org/abs/2012.11213)
 
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
