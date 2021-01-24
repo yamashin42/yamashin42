@@ -27,7 +27,7 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 ### Preprint
 1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, [arXiv:2012.11213](https://arxiv.org/abs/2012.11213)
 
-Conference presentation at domestic conference in Japan is available [Japanese site](https://yamashin42.github.io/yamashin42/JP)
+Conference presentation at domestic conference in Japan is available on [Japanese site](https://yamashin42.github.io/yamashin42/JP)
 
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
