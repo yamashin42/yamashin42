@@ -1,18 +1,17 @@
 ## 山本 晋太郎
-早稲田大学先進理工学研究科博士後期課程在学中
-産業技術総合研究所人工知能研究センターリサーチアシスタント
-自然言語処理及びコンピュータビジョン技術による科学論文分析の研究に従事
+早稲田大学先進理工学研究科博士後期課程在学中<br>
+産業技術総合研究所人工知能研究センターリサーチアシスタント<br>
+自然言語処理及びコンピュータビジョン技術による科学論文分析の研究に従事<br>
 [English page](https://yamashin42.github.io/yamashin42/)
 
 ### 経歴
-- Apr. 2013 - Mar. 2017: Department of Applied Physics, School of Advanced Science and Engineering, Waseda University (Bachelor of Engineering)
-- Apr. 2017 - Mar. 2019: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Wasda University (Master of Engineering)
+- Apr. 2013 - Mar. 2017: 早稲田大学先進理工学部応用物理学科　学士(工学)
+- Apr. 2017 - Mar. 2019: 早稲田大学先進理工学研究科物理学及応用物理学専攻修士課程　修士(工学)
 - Jul. 2017 - Sep. 2017: Cross-disciplinary Scholars in Science and Technology (CSST) Program / California Research Training Program in Computational and Applied Mathematics, University of California, Los Angeles
-- Jan. 2019 - Mar. 2019: Internship, Omron SinicX Corporation
-- Apr. 2019 - Present: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda Unievrsity (Ph.D. course)
-(Graduate Program for Embodied Informatics)
+- Jan. 2019 - Mar. 2019: オムロンサイニックエックス株式会社にてインターンシップ
+- Apr. 2019 - Present: 早稲田大学先進理工学研究科物理学及応用物理学専攻博士後期課程　(実体情報学博士プログラム所属)
 - Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
-- May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
+- May. 2020 - Present: 産業技術総合研究所人工知能研究センター　リサーチアシスタント
 
 ### Papers
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima “Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers”, 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
