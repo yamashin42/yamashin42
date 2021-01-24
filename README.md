@@ -1,6 +1,6 @@
 ## Shintaro Yamamoto
 
-I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engineering, Waseda University since April 2019. I'm also a Research Assistant at Artificial Intelligence Research Center, the National Institute of Advanced Industrial Science and Technology (AIST) since May 2020. My research topic is scientific publication mining using Natural Language Processing and Computer Vision techniques. 
+I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engineering, Waseda University since April 2019. I'm also a Research Assistant at Artificial Intelligence Research Center, the National Institute of Advanced Industrial Science and Technology (AIST) since May 2020. My research topic is scientific publication mining using Natural Language Processing and Computer Vision techniques. <br>
 [Japanese page](https://yamashin42.github.io/yamashin42/JP)
 
 ### Biography
@@ -26,6 +26,8 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 
 ### Preprint
 1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, [arXiv:2012.11213](https://arxiv.org/abs/2012.11213)
+
+Conference presentation at domestic conference in Japan is available [Japanese site](https://yamashin42.github.io/yamashin42/JP)
 
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
