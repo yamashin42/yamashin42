@@ -1,6 +1,7 @@
 ## Shintaro Yamamoto
 
 I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engineering, Waseda University since April 2019. I'm also a Research Assistant at Artificial Intelligence Research Center, the National Institute of Advanced Industrial Science and Technology (AIST) since May 2020. My research topic is scientific publication mining using Natural Language Processing and Computer Vision techniques. 
+[Japanese page](https://yamashin42.github.io/yamashin42/JP)
 
 ### Biography
 - Apr. 2013 - Mar. 2017: Department of Applied Physics, School of Advanced Science and Engineering, Waseda University (Bachelor of Engineering)
