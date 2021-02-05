@@ -13,9 +13,11 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 - Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
 - May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
 
-### International Conference/Journal Article
-1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
+### Journal Article
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, and Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
+
+### International Conference
+1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, Dec. 2019 
 1. Yukitaka Tsuchiya, Takahiro Itazuri, Ryota Natsume, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Generating Video from Single Image Sound.", Sight and Sound Workshop (in CVPR 2019), Long Beach, U.S., Jun. 2019
 1. **Shintaro Yamamoto**, Yoshihiro Fukuhara, Ryota Suzuki, Shigeo Morishima, and Hirokatsu Kataoka "Automatic Paper Summary Generation from Visual and Textual Information.", The 11th International Conference on Machine Vision (ICMV2018), Munich, Germany, Nov. 2018
