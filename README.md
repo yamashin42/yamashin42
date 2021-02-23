@@ -26,8 +26,6 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 1. Yonatan Dukler, Yurun Ge, Yizhou Qian, **Shintaro Yamamoto**, Baichuan Yuan, Long Zhao, Andrea L. Bertozzi, Blake Hunter, Rafael Llerena, and Jesse T. Yen "Automatic decomposition and mitral valve segmentation of cardiac ultrasound time series data." SPIE conference on medical imaging, 2018, Houston, U.S., Feb. 2018
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2018
 
-### Preprint
-1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, [arXiv:2012.11213](https://arxiv.org/abs/2012.11213)
 
 Conference presentation at domestic conference in Japan is available at [Japanese site](https://yamashin42.github.io/yamashin42/JP)
 
