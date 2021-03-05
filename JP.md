@@ -42,5 +42,11 @@
 ### 受賞
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞
 
+### 資料集
+1. Vision and Language（メタサーベイ）[URL](https://www.slideshare.net/cvpaperchallenge/vision-and-language-232926110)
+1. Performance is not all you need -CV分野における論文への要求- [URL](https://www.slideshare.net/cvpaperchallenge/performance-is-not-all-you-need-cv)
+1. Survey of Scientific Publication Analysis by NLP and CV
+[URL](https://www.slideshare.net/ShintaroYamamoto1/survey-of-scientific-publication-analysis-by-nlp-and-cv)
+
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
