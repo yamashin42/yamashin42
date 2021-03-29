@@ -15,7 +15,7 @@
 - Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
 - May. 2020 - Present: 産業技術総合研究所人工知能研究センター　リサーチアシスタント
 
-### 研究業績(国際会議/学術論文誌)
+### 研究業績(国際会議/学術誌)
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima “Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers”, 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
 1.  **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, 11th International Workshop on Bibliometric-enhanced Information Retrieval (in ECIR 2021), Online, Apr. 2021 (accepted)
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, and Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
