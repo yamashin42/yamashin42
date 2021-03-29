@@ -2,7 +2,7 @@
 ## Shintaro Yamamoto
 
 I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engineering, Waseda University since April 2019. I'm also a Research Assistant at Artificial Intelligence Research Center, the National Institute of Advanced Industrial Science and Technology (AIST) since May 2020. My research topic is scientific publication mining using Natural Language Processing and Computer Vision techniques. <br>
-[Japanese page](https://yamashin42.github.io/yamashin42/JP)
+[Japanese page](https://yamashin42.github.io/yamashin42)
 
 ### Biography
 - Apr. 2013 - Mar. 2017: Department of Applied Physics, School of Advanced Science and Engineering, Waseda University (Bachelor of Engineering)
@@ -27,13 +27,7 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 1. Yonatan Dukler, Yurun Ge, Yizhou Qian, **Shintaro Yamamoto**, Baichuan Yuan, Long Zhao, Andrea L. Bertozzi, Blake Hunter, Rafael Llerena, and Jesse T. Yen "Automatic decomposition and mitral valve segmentation of cardiac ultrasound time series data." SPIE conference on medical imaging, 2018, Houston, U.S., Feb. 2018
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
-Conference presentation at domestic conference in Japan is available at [Japanese site](https://yamashin42.github.io/yamashin42/JP)
-
-### Resources (in Japanese)
-1. Vision and Language（メタサーベイ）[URL](https://www.slideshare.net/cvpaperchallenge/vision-and-language-232926110)
-1. Performance is not all you need -CV分野における論文への要求- [URL](https://www.slideshare.net/cvpaperchallenge/performance-is-not-all-you-need-cv)
-1. Survey of Scientific Publication Analysis by NLP and CV
-[URL](https://www.slideshare.net/ShintaroYamamoto1/survey-of-scientific-publication-analysis-by-nlp-and-cv)
+Conference presentation at domestic conference in Japan is available at [Japanese site](https://yamashin42.github.io/yamashin42)
 
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
