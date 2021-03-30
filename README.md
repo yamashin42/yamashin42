@@ -26,7 +26,7 @@
 1. Kanami Yamagishi, Takuya Kato, **Shintaro Yamamoto**, Ayano Kaneda, and Shigeo Morishima "How makeup experience changes how we see cosmetics?", ACM Symposium on Applied Perception (Poster), Vancouver, Canada, Aug. 2018
 1. Kanami Yamagishi, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Cosmetic Features Extraction by a Single Image Makeup Decomposition." Women in Computer Vision Workshop (in CVPR 2018), Salt Lake City, U.S. Jun. 2018
 1. Yonatan Dukler, Yurun Ge, Yizhou Qian, **Shintaro Yamamoto**, Baichuan Yuan, Long Zhao, Andrea L. Bertozzi, Blake Hunter, Rafael Llerena, and Jesse T. Yen "Automatic decomposition and mitral valve segmentation of cardiac ultrasound time series data." SPIE conference on medical imaging, 2018, Houston, U.S., Feb. 2018
-1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2018
+1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
 ### 研究業績(国内会議)
 1. **山本晋太郎**，鈴木亮太，片岡裕雄，森島繁生 "論文要約のための要約文の比較評価実験" 自然言語処理若手の会(YANS)第14回シンポジウム，札幌，Aug. 2019 (査読無し)
