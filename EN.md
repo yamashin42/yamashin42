@@ -15,7 +15,10 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 - May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
 
 ### International Conference/Journal Article
+1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
+1. **Shintaro Yamamoto**, Ryota Suzuki, Seitaro Shinagawa, Hirokatsu Kataoka, and Shigeo Morishima "Analysis of Use of Figures and Tables in Computer Vision Papers Using Image Recognition Technique", Journal of the Japan Society for Precision Engineering (in Japanese) (accepted)
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
+1. **Shintaro Yamamoto**, Ryota Suzuki, Tsukasa Fukusato, Hirokatsu Kataoka, and Shigeo Morishima "A Case Study on User Evaluation of Scientific Publication Summarization by Japanese Students", Applied Sciences 11(14):6287, Jul. 2021
 1.  **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, 11th International Workshop on Bibliometric-enhanced Information Retrieval (in ECIR 2021), Online, Apr. 2021
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, and Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, Dec. 2019 
@@ -26,9 +29,6 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 1. Kanami Yamagishi, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Cosmetic Features Extraction by a Single Image Makeup Decomposition." Women in Computer Vision Workshop (in CVPR 2018), Salt Lake City, U.S. Jun. 2018
 1. Yonatan Dukler, Yurun Ge, Yizhou Qian, **Shintaro Yamamoto**, Baichuan Yuan, Long Zhao, Andrea L. Bertozzi, Blake Hunter, Rafael Llerena, and Jesse T. Yen "Automatic decomposition and mitral valve segmentation of cardiac ultrasound time series data." SPIE conference on medical imaging, 2018, Houston, U.S., Feb. 2018
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
-
-### Preprint
-1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers" arXiv:2103.14146 [URL](https://arxiv.org/abs/2103.14146) (\* equal contribution) 
 
 Conference presentation at domestic conference in Japan is available at [Japanese site](https://yamashin42.github.io/yamashin42)
 
