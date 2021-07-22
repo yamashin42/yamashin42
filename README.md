@@ -16,7 +16,10 @@
 - May. 2020 - Present: 産業技術総合研究所人工知能研究センター　リサーチアシスタント
 
 ### 研究業績(国際会議/学術誌)
-1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima “Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers”, 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
+1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
+1. **Shintaro Yamamoto**, Ryota Suzuki, Seitaro Shinagawa, Hirokatsu Kataoka, and Shigeo Morishima "Analysis of Use of Figures and Tables in Computer Vision Papers Using Image Recognition Technique", Journal of the Japan Society for Precision Engineering (in Japanese) (accepted)
+1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
+1. **Shintaro Yamamoto**, Ryota Suzuki, Tsukasa Fukusato, Hirokatsu Kataoka, and Shigeo Morishima "A Case Study on User Evaluation of Scientific Publication Summarization by Japanese Students", Applied Sciences 11(14):6287, Jul. 2021
 1.  **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, 11th International Workshop on Bibliometric-enhanced Information Retrieval (in ECIR 2021), Online, Apr. 2021
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, and Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, Dec. 2019 
@@ -41,9 +44,6 @@
 1. **山本晋太郎**，サフキンパーベル，加藤卓哉，佐藤優伍，森島繁生 "表情の対応付けに基づくデータドリフブンな経年変化顔動画合成" 第23回画像センシングシンポジウム(SSII2017)，横浜，Jun. 2017 (査読有り)
 1. **山本晋太郎**，サフキンパーベル，加藤卓哉，山口周悟，森島繁生 "表情変化を考慮した経年変化顔動画合成" 情報処理学会第166回コンピュータグラフィックスとビジュアル情報学研究会，東京，Mar. 2017 (査読無し) 
 1. **山本晋太郎**，サフキンパーベル，佐藤優伍，加藤卓哉，森島繁生 "笑顔動画データベースを用いた顔動画の経年変化" 情報処理学会第79回全国大会，名古屋，Mar. 2017 (査読無し) 
-
-### 研究業績(プレプリント)
-1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers" arXiv:2103.14146 [URL](https://arxiv.org/abs/2103.14146) (\* equal contribution) 
 
 ### 受賞
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞
