@@ -1,6 +1,6 @@
 # 山本晋太郎
 
-### プロフィール
+## プロフィール
 早稲田大学先進理工学研究科博士後期課程在学中<br>
 産業技術総合研究所人工知能研究センターリサーチアシスタント<br>
 自然言語処理及びコンピュータビジョン技術による科学論文分析の研究に従事<br>
@@ -15,13 +15,17 @@
 - Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
 - May. 2020 - Present: 産業技術総合研究所人工知能研究センター　リサーチアシスタント
 
-### 研究業績(国際会議/学術誌)
-1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
-1. **Shintaro Yamamoto**, Ryota Suzuki, Seitaro Shinagawa, Hirokatsu Kataoka, and Shigeo Morishima "Analysis of Use of Figures and Tables in Computer Vision Papers Using Image Recognition Technique", Journal of the Japan Society for Precision Engineering (in Japanese) (accepted)
-1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
+
+## 研究業績
+### 学術誌
+1. **山本晋太郎**, 鈴木亮太, 品川政太朗, 片岡裕雄, 森島繫生 "画像認識技術を用いたコンピュータビジョン分野の論文における図表の使用の分析", 精密工学会誌 (採択決定)
 1. **Shintaro Yamamoto**, Ryota Suzuki, Tsukasa Fukusato, Hirokatsu Kataoka, and Shigeo Morishima "A Case Study on User Evaluation of Scientific Publication Summarization by Japanese Students", Applied Sciences 11(14):6287, Jul. 2021
-1.  **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, 11th International Workshop on Bibliometric-enhanced Information Retrieval (in ECIR 2021), Online, Apr. 2021
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, and Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
+
+### 国際会議
+1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
+1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
+1.  **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, 11th International Workshop on Bibliometric-enhanced Information Retrieval (in ECIR 2021), Online, Apr. 2021
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, Dec. 2019 
 1. Yukitaka Tsuchiya, Takahiro Itazuri, Ryota Natsume, **Shintaro Yamamoto**, Takuya Kato, and Shigeo Morishima "Generating Video from Single Image Sound.", Sight and Sound Workshop (in CVPR 2019), Long Beach, U.S., Jun. 2019
 1. **Shintaro Yamamoto**, Yoshihiro Fukuhara, Ryota Suzuki, Shigeo Morishima, and Hirokatsu Kataoka "Automatic Paper Summary Generation from Visual and Textual Information.", The 11th International Conference on Machine Vision (ICMV2018), Munich, Germany, Nov. 2018
@@ -31,7 +35,7 @@
 1. Yonatan Dukler, Yurun Ge, Yizhou Qian, **Shintaro Yamamoto**, Baichuan Yuan, Long Zhao, Andrea L. Bertozzi, Blake Hunter, Rafael Llerena, and Jesse T. Yen "Automatic decomposition and mitral valve segmentation of cardiac ultrasound time series data." SPIE conference on medical imaging, 2018, Houston, U.S., Feb. 2018
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, and Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
-### 研究業績(国内会議)
+### 国内会議
 1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Multi-sentence Change Captioning with Transformers" 画像の認識・理解シンポジウム（MIRU 2021），名古屋，Jul. 2021 (査読有り，採択済み) (\* equal contribution) 
 1. **山本晋太郎**，鈴木亮太，片岡裕雄，森島繁生 "論文要約のための要約文の比較評価実験" 自然言語処理若手の会(YANS)第14回シンポジウム，札幌，Aug. 2019 (査読無し)
 1. 土屋志高，板摺貴大，夏目亮太，**山本晋太郎**，加藤卓哉，森島繁生 "画像と音を用いた動画生成の一般化" Visual Computing 2019，東京，Jun. 2019 (査読有り)
@@ -48,11 +52,14 @@
 ### 受賞
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞
 
-### 資料集
+## 資料集
+1. Transformerメタサーベイ [URL](https://www.slideshare.net/cvpaperchallenge/transformer-247407256)
+1. Cross-modality meta-survey of dataset [URL](https://www.slideshare.net/cvpaperchallenge/crossmodality-metasurvey-of-dataset)
 1. Vision and Language（メタサーベイ）[URL](https://www.slideshare.net/cvpaperchallenge/vision-and-language-232926110)
 1. Performance is not all you need -CV分野における論文への要求- [URL](https://www.slideshare.net/cvpaperchallenge/performance-is-not-all-you-need-cv)
 1. Survey of Scientific Publication Analysis by NLP and CV
 [URL](https://www.slideshare.net/ShintaroYamamoto1/survey-of-scientific-publication-analysis-by-nlp-and-cv)
 
-### Contact
-s.yamamoto\[at]fuji.waseda.jp
+## Contact
+E-mail: s.yamamoto\[at]fuji.waseda.jp
+Twitter: [@yshin55](https://twitter.com/yshin55)
