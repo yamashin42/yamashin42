@@ -23,7 +23,7 @@
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, and Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
 
 ### 国際会議
-1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
+1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, and Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", IEEE/CVF International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, and Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
 1.  **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, and Shigeo Morishima “Self-Supervised Learning for Visual Summary Identification in Scientific Publications”, 11th International Workshop on Bibliometric-enhanced Information Retrieval (in ECIR 2021), Online, Apr. 2021
 1. Tamon Miyake, Zhengxue Cheng, Satoshi Hosono, **Shintaro Yamamoto**, Satoshi Funabashi, Cheng Zhang, and Emi Tamaki "Heel-Contact Gait Phase Detection Based on Specific Poses with Muscle Deformation.", The 2019 IEEE International Conference on Robotics and Biomimetics, Daili, China, Dec. 2019 
@@ -61,5 +61,5 @@
 [URL](https://www.slideshare.net/ShintaroYamamoto1/survey-of-scientific-publication-analysis-by-nlp-and-cv)
 
 ## Contact
-E-mail: s.yamamoto\[at]fuji.waseda.jp
+E-mail: s.yamamoto\[at]fuji.waseda.jp <br>
 Twitter: [@yshin55](https://twitter.com/yshin55)
