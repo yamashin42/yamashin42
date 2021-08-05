@@ -15,7 +15,7 @@ I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engin
 - May. 2020 - Present: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
 
 ### International Conference/Journal Article
-1. Shintaro Yamamoto, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, Shigeo Morishima "Visual Summary Identification from Scientific Publications via Self-Supervised Learning", Frontiers in Research Metrics and Analytics (accepted)
+1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, Shigeo Morishima "Visual Summary Identification from Scientific Publications via Self-Supervised Learning", Frontiers in Research Metrics and Analytics (accepted)
 1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", IEEE/CVF International Conference on Computer Vision (ICCV 2021), Online, Oct. 2021 (accepted) (\* equal contribution) 
 1. **Shintaro Yamamoto**, Ryota Suzuki, Seitaro Shinagawa, Hirokatsu Kataoka, Shigeo Morishima "Analysis of Use of Figures and Tables in Computer Vision Papers Using Image Recognition Technique", Journal of the Japan Society for Precision Engineering (in Japanese) (accepted)
 1. **Shintaro Yamamoto**, Ryota Suzuki, Hirokatsu Kataoka, Shigeo Morishima "Comprehending Research Article in Minutes: A User Study of Reading Computer Generated Summary for Young Researchers", 23rd International Conference on Human-Computer Interaction (HCI International 2021), Online, Jul. 2021 (accepted)
