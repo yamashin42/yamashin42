@@ -18,7 +18,7 @@
 
 ## 研究業績
 ### 学術誌
-1. **山本晋太郎**, 鈴木亮太, 品川政太朗, 片岡裕雄, 森島繁生 "画像認識技術を用いたコンピュータビジョン分野の論文における図表の使用の分析", 精密工学会誌 (採択決定)
+1. **山本晋太郎**, 鈴木亮太, 品川政太朗, 片岡裕雄, 森島繁生 "画像認識技術を用いたコンピュータビジョン分野の論文における図表の使用の分析", 精密工学会誌 87(12):995-1002, Dec. 2021
 1. **Shintaro Yamamoto**, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš, Shigeo Morishima "Visual Summary Identification from Scientific Publications via Self-Supervised Learning", Frontiers in Research Metrics and Analytics 6: 71904, Aug. 2021
 1. **Shintaro Yamamoto**, Ryota Suzuki, Tsukasa Fukusato, Hirokatsu Kataoka, Shigeo Morishima "A Case Study on User Evaluation of Scientific Publication Summarization by Japanese Students", Applied Sciences 11(14):6287, Jul. 2021
 1. Tamon Miyake, **Shintaro Yamamoto**, Satoshi Hosono, Satoshi Funabashi, Zhengxue Cheng, Cheng Zhang, Emi Tamaki, Shigeki Sugano "Gait Phase Detection Based on Muscle Deformation with Static Standing-Based Calibration", Sensors 21(4):1081, Feb. 2021
@@ -37,7 +37,7 @@
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
 ### 国内会議
-1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Multi-sentence Change Captioning with Transformers" 画像の認識・理解シンポジウム（MIRU 2021），名古屋，Jul. 2021 (査読有り) (\* equal contribution) 
+1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Multi-sentence Change Captioning with Transformers" 画像の認識・理解シンポジウム（MIRU 2021），オンライン，Jul. 2021 (査読有り) (\* equal contribution) 
 1. **山本晋太郎**，鈴木亮太，片岡裕雄，森島繁生 "論文要約のための要約文の比較評価実験" 自然言語処理若手の会(YANS)第14回シンポジウム，札幌，Aug. 2019 (査読無し)
 1. 土屋志高，板摺貴大，夏目亮太，**山本晋太郎**，加藤卓哉，森島繁生 "画像と音を用いた動画生成の一般化" Visual Computing 2019，東京，Jun. 2019 (査読有り)
 1. 土屋志高，板摺貴大，夏目亮太，加藤卓哉，**山本晋太郎**，森島繁生 "音響情報を用いた一枚画像からの動画生成" 情報処理学会第81回全国大会，福岡，Mar. 2019 (査読無し)
@@ -49,6 +49,9 @@
 1. **山本晋太郎**，サフキンパーベル，加藤卓哉，佐藤優伍，森島繁生 "表情の対応付けに基づくデータドリフブンな経年変化顔動画合成" 第23回画像センシングシンポジウム(SSII2017)，横浜，Jun. 2017 (査読有り)
 1. **山本晋太郎**，サフキンパーベル，加藤卓哉，山口周悟，森島繁生 "表情変化を考慮した経年変化顔動画合成" 情報処理学会第166回コンピュータグラフィックスとビジュアル情報学研究会，東京，Mar. 2017 (査読無し) 
 1. **山本晋太郎**，サフキンパーベル，佐藤優伍，加藤卓哉，森島繁生 "笑顔動画データベースを用いた顔動画の経年変化" 情報処理学会第79回全国大会，名古屋，Mar. 2017 (査読無し) 
+
+### 講演
+1. 品川政太朗，Qiu Yue，**山本晋太郎** "Transformerの変遷と発展" ViEW2021 ビジョン技術の実利用ワークショップ，オンライン，Dec. 2021
 
 ### 受賞
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞
