@@ -37,6 +37,7 @@
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
 ### 国内会議
+1. 久保谷善記, 品川政太朗, **山本晋太郎**, 鈴木亮太, 森島繁生"論文要旨を捉えたスライド生成における割り当て問題の適用" 言語処理学会第28回年次大会(NLP2022)，オンライン，Mar. 2022 (発表予定・査読無し)
 1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Multi-sentence Change Captioning with Transformers" 画像の認識・理解シンポジウム（MIRU 2021），オンライン，Jul. 2021 (査読有り) (\* equal contribution) 
 1. **山本晋太郎**，鈴木亮太，片岡裕雄，森島繁生 "論文要約のための要約文の比較評価実験" 自然言語処理若手の会(YANS)第14回シンポジウム，札幌，Aug. 2019 (査読無し)
 1. 土屋志高，板摺貴大，夏目亮太，**山本晋太郎**，加藤卓哉，森島繁生 "画像と音を用いた動画生成の一般化" Visual Computing 2019，東京，Jun. 2019 (査読有り)
