@@ -6,14 +6,17 @@
 自然言語処理及びコンピュータビジョン技術による科学論文解析の研究に従事<br>
 [English page](https://yamashin42.github.io/yamashin42/EN)
 
-### 経歴
+### 学歴
 - Apr. 2013 - Mar. 2017: 早稲田大学先進理工学部応用物理学科　学士(工学)
 - Apr. 2017 - Mar. 2019: 早稲田大学先進理工学研究科物理学及応用物理学専攻修士課程　修士(工学)
+- Apr. 2019 - Mar. 2022: 早稲田大学先進理工学研究科物理学及応用物理学専攻博士後期課程　(実体情報学博士プログラム所属)　博士(工学)取得予定
+
+### 経歴
 - Jul. 2017 - Sep. 2017: Cross-disciplinary Scholars in Science and Technology (CSST) Program / California Research Training Program in Computational and Applied Mathematics, University of California, Los Angeles
+- Feb. 2018 - Mar. 2018: ソニー株式会社にてインターンシップ
 - Jan. 2019 - Mar. 2019: オムロンサイニックエックス株式会社にてインターンシップ
-- Apr. 2019 - Present: 早稲田大学先進理工学研究科物理学及応用物理学専攻博士後期課程　(実体情報学博士プログラム所属)
 - Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
-- May. 2020 - Present: 産業技術総合研究所人工知能研究センター　リサーチアシスタント
+- May. 2020 - Mar. 2022: 産業技術総合研究所人工知能研究センター　リサーチアシスタント
 
 
 ## 研究業績
