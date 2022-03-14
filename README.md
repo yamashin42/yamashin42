@@ -1,14 +1,14 @@
 # 山本晋太郎
 
 ## プロフィール
-早稲田大学先進理工学研究科博士後期課程<br>
+早稲田大学先進理工学研究科博士後期課程修了、博士(工学)<br>
 自然言語処理及びコンピュータビジョン技術による科学論文解析の研究に従事<br>
 [English page](https://yamashin42.github.io/yamashin42/EN)
 
 ### 学歴
 - Apr. 2013 - Mar. 2017: 早稲田大学先進理工学部応用物理学科　学士(工学)
 - Apr. 2017 - Mar. 2019: 早稲田大学先進理工学研究科物理学及応用物理学専攻修士課程　修士(工学)
-- Apr. 2019 - Mar. 2022: 早稲田大学先進理工学研究科物理学及応用物理学専攻博士後期課程　(実体情報学博士プログラム所属)　博士(工学)取得予定
+- Apr. 2019 - Mar. 2022: 早稲田大学先進理工学研究科物理学及応用物理学専攻博士後期課程　(実体情報学博士プログラム)　博士(工学)
 
 ### 経歴
 - Jul. 2017 - Sep. 2017: Cross-disciplinary Scholars in Science and Technology (CSST) Program / California Research Training Program in Computational and Applied Mathematics, University of California, Los Angeles
