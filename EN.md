@@ -1,16 +1,18 @@
 # Shintaro Yamamoto
 ### Profile
 
-I'm a Japanese Doctoral student at Graduate School of Advanced Science and Engineering, Waseda University since April 2019.  My research topic is scientific paper analysis using Natural Language Processing and Computer Vision techniques. <br>
+I'm a Japanese reseacher in computer vision and natural language processing. During my doctoral study, I focused on scientific paper analysis. <br>
 [Japanese page](https://yamashin42.github.io/yamashin42)
 
-### Biography
+### Education
 - Apr. 2013 - Mar. 2017: Department of Applied Physics, School of Advanced Science and Engineering, Waseda University (Bachelor of Engineering)
 - Apr. 2017 - Mar. 2019: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Wasda University (Master of Engineering)
+- Apr. 2019 - Mar. 2022: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda Unievrsity (Doctor of Engineering)
+
+### Biography
+
 - Jul. 2017 - Sep. 2017: Cross-disciplinary Scholars in Science and Technology (CSST) Program / California Research Training Program in Computational and Applied Mathematics, University of California, Los Angeles
 - Jan. 2019 - Mar. 2019: Internship, Omron SinicX Corporation
-- Apr. 2019 - Mar. 2022: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda Unievrsity (Doctor of Engineering)
-(Graduate Program for Embodied Informatics)
 - Sep. 2019 - Dec. 2019: Visiting Researcher, Data and Web Science Group, University of Mannheim
 - May. 2020 - Mar. 2022: Research Assistant, Artificial Intelligence Research Center, The National Institute of Advanced Industrial Science and Technology (AIST)
 
