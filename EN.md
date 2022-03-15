@@ -1,7 +1,7 @@
 # Shintaro Yamamoto
 ### Profile
 
-I'm a Japanese reseacher in computer vision and natural language processing. During my doctoral study, I focused on scientific paper analysis. <br>
+I'm a Japanese reseacher in natural language processing and computer vision. During my doctoral study, I focused on scientific paper analysis. <br>
 [Japanese page](https://yamashin42.github.io/yamashin42)
 
 ### Education
