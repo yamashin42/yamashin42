@@ -7,7 +7,7 @@ I'm a Japanese reseacher in natural language processing and computer vision. Dur
 ### Education
 - Apr. 2013 - Mar. 2017: Department of Applied Physics, School of Advanced Science and Engineering, Waseda University (Bachelor of Engineering)
 - Apr. 2017 - Mar. 2019: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Wasda University (Master of Engineering)
-- Apr. 2019 - Mar. 2022: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda Unievrsity (Doctor of Engineering)
+- Apr. 2019 - Mar. 2022: Department of Pure and Applied Physics, Graduate School of Advanced Science and Engineering, Waseda Unievrsity (Ph.D in Engineering)
 
 ### Biography
 
