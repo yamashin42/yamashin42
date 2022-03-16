@@ -41,7 +41,7 @@ title: Shintaro Yamamoto's homepage
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
 ### 国内会議
-1. 久保谷善記, 品川政太朗, **山本晋太郎**, 鈴木亮太, 森島繁生"論文要旨を捉えたスライド生成における割り当て問題の適用" 言語処理学会第28回年次大会(NLP2022)，オンライン，Mar. 2022 (査読無し)
+1. 久保谷善記, 品川政太朗, **山本晋太郎**, 鈴木亮太, 森島繁生 "論文要旨を捉えたスライド生成における割り当て問題の適用" 言語処理学会第28回年次大会(NLP2022)，オンライン，Mar. 2022 (査読無し)
 1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Multi-sentence Change Captioning with Transformers" 画像の認識・理解シンポジウム（MIRU 2021），オンライン，Jul. 2021 (査読有り) (\* equal contribution) 
 1. **山本晋太郎**，鈴木亮太，片岡裕雄，森島繁生 "論文要約のための要約文の比較評価実験" 自然言語処理若手の会(YANS)第14回シンポジウム，札幌，Aug. 2019 (査読無し)
 1. 土屋志高，板摺貴大，夏目亮太，**山本晋太郎**，加藤卓哉，森島繁生 "画像と音を用いた動画生成の一般化" Visual Computing 2019，東京，Jun. 2019 (査読有り)
@@ -60,15 +60,6 @@ title: Shintaro Yamamoto's homepage
 
 ### 受賞
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞 Aug. 2018.
-
-
-## 資料集
-1. Transformerメタサーベイ [URL](https://www.slideshare.net/cvpaperchallenge/transformer-247407256)
-1. Cross-modality meta-survey of dataset [URL](https://www.slideshare.net/cvpaperchallenge/crossmodality-metasurvey-of-dataset)
-1. Vision and Language（メタサーベイ）[URL](https://www.slideshare.net/cvpaperchallenge/vision-and-language-232926110)
-1. Performance is not all you need -CV分野における論文への要求- [URL](https://www.slideshare.net/cvpaperchallenge/performance-is-not-all-you-need-cv)
-1. Survey of Scientific Publication Analysis by NLP and CV
-[URL](https://www.slideshare.net/ShintaroYamamoto1/survey-of-scientific-publication-analysis-by-nlp-and-cv)
 
 ## Contact
 E-mail: s.yamamoto\[at]fuji.waseda.jp <br>
