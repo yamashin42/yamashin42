@@ -1,6 +1,4 @@
----
-title: Shintaro Yamamoto's homepage
----
+# 山本晋太郎
 
 ## プロフィール
 早稲田大学先進理工学研究科博士後期課程修了、博士(工学)<br>
