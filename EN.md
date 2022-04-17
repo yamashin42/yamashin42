@@ -39,5 +39,8 @@ I'm a Japanese reseacher in natural language processing and computer vision. Dur
 
 Conference presentation at domestic conference in Japan is available at [Japanese site](https://yamashin42.github.io/yamashin42)
 
+### Reviewer Experience
+* IEEE Access
+
 ### Contact
 s.yamamoto\[at]fuji.waseda.jp
