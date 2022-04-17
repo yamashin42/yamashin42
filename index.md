@@ -61,6 +61,10 @@ title: Shintaro Yamamoto's homepage
 ### 受賞
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞 Aug. 2018.
 
+## 学会活動
+### 査読
+* IEEE Access
+
 ## Contact
 E-mail: s.yamamoto\[at]fuji.waseda.jp <br>
 Twitter: [@yshin55](https://twitter.com/yshin55)
