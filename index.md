@@ -65,7 +65,7 @@ title: Shintaro Yamamoto's homepage
 
 ## 学会活動
 ### 査読
-* IEEE Access
+IEEE Access, ICPR 2022, MIRU 2022
 
 ## Contact
 E-mail: s.yamamoto\[at]fuji.waseda.jp <br>
