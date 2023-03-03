@@ -74,5 +74,8 @@ title: Shintaro Yamamoto's homepage
 ### 査読
 IEEE Access, ICPR 2022, WACV 2022, MIRU 2022
 
+### 委員
+1. MIRU 2023若手プログラム実行委員
+
 ## Contact
 E-mail: s.yamamoto\[at]fuji.waseda.jp <br>
