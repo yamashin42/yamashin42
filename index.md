@@ -61,6 +61,7 @@ title: Shintaro Yamamoto's homepage
 1. **山本晋太郎**，サフキンパーベル，佐藤優伍，加藤卓哉，森島繁生 "笑顔動画データベースを用いた顔動画の経年変化" 情報処理学会第79回全国大会，名古屋，Mar. 2017
 
 ### 講演
+1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Describing and Localizing Multiple Changes with Transformers", 画像の認識・理解シンポジウム（MIRU 2022），姫路，Jul. 2022 （ICCV 2021採択論文の招待講演）
 1. 品川政太朗，Qiu Yue，**山本晋太郎** "Transformerの変遷と発展" ViEW2021 ビジョン技術の実利用ワークショップ，オンライン，Dec. 2021
 
 ### 書籍
