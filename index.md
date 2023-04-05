@@ -42,9 +42,9 @@ title: Shintaro Yamamoto's homepage
 1. **Shintaro Yamamoto**, Pavel A. Savkin, Takuya Kato, Shoichi Furukawa, Shigeo Morishima "Facial Video Age Progression Considering Expression Change." Computer Graphics International 2017, Yokohama, Japan, Jun. 2017
 
 ### 国内会議
-1. 長崎好輝，川野恭史，**山本晋太郎**，Qiu Yue，青木義満，原健翔，片岡裕雄 "動的シーングラフ生成における網羅的かつ文脈レベルでの時空間情報抽出　" DIA2023 動的画像処理実利用化ワークショップ，宇都宮，Mar. 2023
+1. 長崎好輝，川野恭史，**山本晋太郎**，Qiu Yue，青木義満，原健翔，片岡裕雄 "動的シーングラフ生成における網羅的かつ文脈レベルでの時空間情報抽出　" DIA2023 動的画像処理実利用化ワークショップ，宇都宮，Mar. 2023 **研究奨励賞**
 1. 長崎好輝，川野恭史，**山本晋太郎**，Qiu Yue，青木義満，原健翔，片岡裕雄 "動的シーングラフ生成におけるGraph Tensorを用いた時空間情報の抽出" ViEW2022 ビジョン技術の実利用ワークショップ，オンライン，Dec. 2022
-1. 長崎好輝，川野恭史，**山本晋太郎**，Qiu Yue，原健翔，青木義満，片岡裕雄 "動的シーングラフ生成における物体と関係性の同時検出" 第28回画像センシングシンポジウム(SSII2022)，ハイブリッド開催(横浜/オンライン)，Jun. 2022
+1. 長崎好輝，川野恭史，**山本晋太郎**，Qiu Yue，原健翔，青木義満，片岡裕雄 "動的シーングラフ生成における物体と関係性の同時検出" 第28回画像センシングシンポジウム(SSII2022)，ハイブリッド開催(横浜/オンライン)，Jun. 2022 **最優秀学術賞**
 1. 山田亮佑，渡部海，牧原昂志，**山本晋太郎**，堂前幸康，片岡裕雄 "物体把持の視覚能力を自動獲得するロボット" 第28回画像センシングシンポジウム(SSII2022)，ハイブリッド開催(横浜/オンライン)，Jun. 2022
 1. 久保谷善記, 品川政太朗, **山本晋太郎**, 鈴木亮太, 森島繁生 "論文要旨を捉えたスライド生成における割り当て問題の適用" 言語処理学会第28回年次大会(NLP2022)，オンライン，Mar. 2022
 1. Yue Qiu\*, **Shintaro Yamamoto**\*, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh "Multi-sentence Change Captioning with Transformers" 画像の認識・理解シンポジウム（MIRU 2021），オンライン，Jul. 2021 (\* equal contribution) 
@@ -68,6 +68,7 @@ title: Shintaro Yamamoto's homepage
 1. 片岡裕雄　監修，**山本晋太郎**，徳永匡臣，箕浦大晃，邱玥（QIU YUE），品川政太朗　著 "Vision Transformer入門" 技術評論社 (第1章を担当)
 
 ### 受賞
+1. 第28回 画像センシングシンポジウム（SSII2022）最優秀学術賞 Jun. 2023
 1. DIA2023研究奨励賞 Mar. 2023.
 1. 自然言語処理若手の会(YANS)第13回シンポジウム 奨励賞 Aug. 2018.
 
