@@ -74,7 +74,7 @@ title: Shintaro Yamamoto's homepage
 
 ## 学会活動
 ### 査読
-IEEE Access, ICPR 2022, WACV 2023, MIRU 2022
+IEEE Access, ICCV 2023, ICPR 2022, WACV 2023, MIRU 2022, 2023
 
 ### 委員
 1. MIRU 2023若手プログラム実行委員
